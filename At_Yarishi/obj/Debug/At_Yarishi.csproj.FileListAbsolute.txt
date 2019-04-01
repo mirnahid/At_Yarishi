@@ -1,0 +1,10 @@
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\bin\Debug\At_Yarishi.exe.config
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\bin\Debug\At_Yarishi.exe
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\bin\Debug\At_Yarishi.pdb
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\obj\Debug\At_Yarishi.csprojAssemblyReference.cache
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\obj\Debug\At_Yarishi.Form1.resources
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\obj\Debug\At_Yarishi.Properties.Resources.resources
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\obj\Debug\At_Yarishi.csproj.GenerateResource.cache
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\obj\Debug\At_Yarishi.csproj.CoreCompileInputs.cache
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\obj\Debug\At_Yarishi.exe
+C:\Users\Alizamin\source\repos\At_Yarishi\At_Yarishi\obj\Debug\At_Yarishi.pdb
